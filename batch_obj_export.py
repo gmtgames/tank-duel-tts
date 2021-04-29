@@ -3,7 +3,7 @@
 import bpy
 import os
 
-basedir = "/Users/jordankehrer/Desktop/Board Games/Tank Duel/TTS/counters/models/3"
+basedir = "/Users/jordankehrer/TTS/jk12559/tank-duel-tts/aids/models"
 
 view_layer = bpy.context.view_layer
 

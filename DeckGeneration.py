@@ -28,6 +28,8 @@ def make_decks():
     card_deck_generator.process("soviet_at_guns", 'assets/TD AT GUN card JPEGs/soviet', 'cards/soviet_at_guns', 70)
     card_deck_generator.process("soviet_infantry", 'assets/TD INFANTRY card JPEGS/soviet', 'cards/soviet_infantry', 70)
     card_deck_generator.process("special", 'assets/TD SPECIAL CARD JPEGS', 'cards/special', 70)
+    card_deck_generator.process("robata_front", 'assets/TD_Robata Cards/fo', 'cards/robata', 70)
+    card_deck_generator.process("robata_back", 'assets/TD_Robata Cards/peril', 'cards/robata', 70)
 
 def main():
     make_decks()
